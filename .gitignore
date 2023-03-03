@@ -1,0 +1,8 @@
+# CLion
+.idea/
+
+# macOS directory metadata
+.DS_Store
+
+# The main application
+docker-c
